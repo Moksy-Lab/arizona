@@ -28,15 +28,6 @@ body {
  font-family: var(--primary-font);
 }
 
-section{
-    border-bottom: none;
-    margin-bottom: 25px;
-}
-
-footer #footer{
-    margin-bottom: 0px;
-}
-
 a {   
     color: var(--text-color);
 }
@@ -201,6 +192,7 @@ p {
     background-color:#00B3E1;
     border-radius: 25px;
     color: white;
+    margin-top: -7px;
     font-weight: bold
 }
 .abouth09ce95888f5e49f5 .fa-play-circle{
@@ -211,6 +203,7 @@ p {
     font-weight: bold;
     margin-top: 7px;
     margin-left: 8px;
+    font-size: 16px;
     color: #00B3E1
 }
 .abouth09ce95888f5e49f5 .jumbotron{
@@ -222,6 +215,9 @@ p {
 /* #agnu(h09ce95888f5e49f5) #css ends  */
 
 /* #pap(d6193c07213dc527) #css starts  */
+.productsd6193c07213dc527 .CourseHead{
+    color: #00B3E1;
+}
 .productsd6193c07213dc527 .card-img-top{
     height: 50px;
     width: 50px;
@@ -232,6 +228,7 @@ p {
     width: 400px
 }
 .productsd6193c07213dc527 .list-group-item{
+    color: #6C757D;
     border-bottom: none
 }
 .productsd6193c07213dc527 .fa{
@@ -243,6 +240,12 @@ p {
 /* #pap(d6193c07213dc527) #css ends  */
 
 /* #sagu(s8cd94ad7048ed656) #css starts  */
+.card-title{
+    color: #0A8ADF;
+}
+.services8cd94ad7048ed656 .head-custom-class{
+    color: #0A8ADF
+}
 .services8cd94ad7048ed656 .card-img-top{
     height: 50px;
     width: 50px;
@@ -256,6 +259,9 @@ p {
     text-decoration: none;
     color: black;
     font-weight: bold
+}
+.services8cd94ad7048ed656 .card-link:hover{
+    color: #0A8ADF
 }
 .services8cd94ad7048ed656 .mt{
     margin-top: 140px
@@ -369,6 +375,9 @@ p {
     /* #cash(c1486b52e923e265f) #css ends  */
 
 /* #quick(q50b1c56df5d4596e) #css starts  */
+.subscription{
+    overflow: hidden;
+}
 .queteq50b1c56df5d4596e .subscription.bg-white {
     margin-top: 50px;
     background: none
