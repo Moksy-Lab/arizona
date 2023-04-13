@@ -1,5 +1,5 @@
 :root {
-    --brand-color: #1E73BE;
+    --brand-color: #00B3E1;
     --light-brand-color: #EF57F2;
     --text-color:  #000000;
     --light-text-color: #7C7C7C;
@@ -349,7 +349,7 @@ p {
 /* #tigu(t9d4c4e1872fa48b0) #css ends  */
 
     /* #cash(c1486b52e923e265f) #css starts  */
-    .mt{
+    .counterc1486b52e923e265f .mt{
         margin-top: 40px;
     }
     .counterc1486b52e923e265f h2{
@@ -358,6 +358,9 @@ p {
     .counterc1486b52e923e265f .fa{
         margin-top: 20px;
         font-size: 60px
+    }
+    .counterc1486b52e923e265f .heading4-custom-class{
+        color: #00BDF0   
     }
 
     @media (min-width: 576px) {
@@ -375,7 +378,7 @@ p {
     /* #cash(c1486b52e923e265f) #css ends  */
 
 /* #quick(q50b1c56df5d4596e) #css starts  */
-.subscription{
+.queteq50b1c56df5d4596e .subscription{
     overflow: hidden;
 }
 .queteq50b1c56df5d4596e .subscription.bg-white {
@@ -413,6 +416,7 @@ p {
 
 .queteq50b1c56df5d4596e h3, 
 .queteq50b1c56df5d4596e .h3 {
+    color: #00BDF0;
     font-size: 30px
 }
 
